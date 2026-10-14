@@ -142,52 +142,52 @@ For organizations prioritizing complete data sovereignty, HIPAA/FINRA compliance
 
 ### Top Open-Source Projects (Ranked by Stars)
 
-1. **[OpenAI Whisper](https://github.com/openai/whisper)** [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
+1. **[OpenAI Whisper](https://github.com/openai/whisper)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
    *General-purpose speech recognition and translation model trained on 680,000 hours of multilingual data. The foundation for real-time multilingual voice support agents and phone audio transcription.*
 
-2. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
+2. **[Flowise](https://github.com/FlowiseAI/Flowise)** [![GitHub_Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
    *Drag-and-drop visual UI for building LLM orchestration pipelines. Allows support engineers to visually chain translation models, glossary validation nodes, CRM lookups, and customer reply agents.*
 
-3. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
+3. **[Coqui TTS](https://github.com/coqui-ai/TTS)** [![GitHub_Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers)  
    *Deep learning toolkit for Text-to-Speech in 1,100+ languages with voice cloning. Generates natural-sounding synthesized speech responses for voice-based multilingual helpdesk phone bots.*
 
-4. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+4. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
    *Open-source omnichannel customer support platform (open alternative to Intercom & Zendesk) featuring live website chat, email ticketing, WhatsApp/Telegram channels, and webhook-driven translation bot hooks.*
 
-5. **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** [![GitHub stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
+5. **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** [![GitHub_Stars](https://img.shields.io/github/stars/SYSTRAN/faster-whisper?style=social&color=white)](https://github.com/SYSTRAN/faster-whisper/stargazers)  
    *Optimized reimplementation of OpenAI's Whisper using CTranslate2. Delivers up to 4x faster inference with reduced GPU VRAM consumption, essential for low-latency live telephony support.*
 
-6. **[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** [![GitHub stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)  
+6. **[LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreTranslate/LibreTranslate?style=social&color=white)](https://github.com/LibreTranslate/LibreTranslate/stargazers)  
    *Free, self-hostable machine translation REST API supporting 50+ languages with zero API key dependencies or usage billing. Built on top of Argos Translate with Docker/Kubernetes readiness.*
 
-7. **[Seamless Communication (SeamlessM4T)](https://github.com/facebookresearch/seamless_communication)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social&color=white)](https://github.com/facebookresearch/seamless_communication/stargazers)  
+7. **[Seamless Communication (SeamlessM4T)](https://github.com/facebookresearch/seamless_communication)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/seamless_communication?style=social&color=white)](https://github.com/facebookresearch/seamless_communication/stargazers)  
    *Meta AI’s foundational multilingual and multimodal AI translation model. Powers expressive, real-time speech-to-speech, speech-to-text, and text-to-speech translation across nearly 100 languages.*
 
-8. **[OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)** [![GitHub stars](https://img.shields.io/github/stars/OpenNMT/OpenNMT-py?style=social&color=white)](https://github.com/OpenNMT/OpenNMT-py/stargazers)  
+8. **[OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenNMT/OpenNMT-py?style=social&color=white)](https://github.com/OpenNMT/OpenNMT-py/stargazers)  
    *Open-source neural machine translation framework written in PyTorch. Used by research teams and enterprises to train custom translation models fine-tuned on proprietary company support logs.*
 
-9. **[Argos Translate](https://github.com/argosopentech/argos-translate)** [![GitHub stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)  
+9. **[Argos Translate](https://github.com/argosopentech/argos-translate)** [![GitHub_Stars](https://img.shields.io/github/stars/argosopentech/argos-translate?style=social&color=white)](https://github.com/argosopentech/argos-translate/stargazers)  
    *Offline translation Python library and CLI based on OpenNMT. Runs on-premises without internet access, making it the top choice for air-gapped, sovereign support desk deployments.*
 
-10. **[Weblate](https://github.com/WeblateOrg/weblate)** [![GitHub stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers)  
+10. **[Weblate](https://github.com/WeblateOrg/weblate)** [![GitHub_Stars](https://img.shields.io/github/stars/WeblateOrg/weblate?style=social&color=white)](https://github.com/WeblateOrg/weblate/stargazers)  
     *Web-based continuous localization platform with tight version control (Git/GitHub/GitLab) integration. Manages helpdesk articles, canned replies, and knowledge base files with automated QA checks.*
 
-11. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+11. **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
     *Open-source helpdesk and customer ticketing system with native multi-language UI, multilingual macro routing, and a flexible API architecture for attaching self-hosted MT translation engines.*
 
-12. **[Tolgee](https://github.com/tolgee/tolgee-platform)** [![GitHub stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers)  
+12. **[Tolgee](https://github.com/tolgee/tolgee-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social&color=white)](https://github.com/tolgee/tolgee-platform/stargazers)  
     *Developer-friendly web localization platform featuring in-context translation, translation memory management, and out-of-the-box integration with deep-learning machine translation APIs.*
 
-13. **[Live Helper Chat](https://github.com/livehelperchat/livehelperchat)** [![GitHub stars](https://img.shields.io/github/livehelperchat/livehelperchat?style=social&color=white)](https://github.com/livehelperchat/livehelperchat/stargazers)  
+13. **[Live Helper Chat](https://github.com/livehelperchat/livehelperchat)** [![GitHub_Stars](https://img.shields.io/github/livehelperchat/livehelperchat?style=social&color=white)](https://github.com/livehelperchat/livehelperchat/stargazers)  
     *Self-hosted live support chat system featuring automated two-way translation extensions (compatible with LibreTranslate, Google Translate, and DeepL) for real-time web support.*
 
-14. **[Matecat](https://github.com/matecat/MateCat)** [![GitHub stars](https://img.shields.io/github/stars/matecat/MateCat?style=social&color=white)](https://github.com/matecat/MateCat/stargazers)  
+14. **[Matecat](https://github.com/matecat/MateCat)** [![GitHub_Stars](https://img.shields.io/github/stars/matecat/MateCat?style=social&color=white)](https://github.com/matecat/MateCat/stargazers)  
     *Open-source Computer-Assisted Translation (CAT) tool backed by Translated. Provides collaborative post-editing, split-file workflows, and translation memory management for enterprise support teams.*
 
-15. **[VaaniDesk](https://github.com/miransec/vaanidesk)** [![GitHub stars](https://img.shields.io/github/stars/miransec/vaanidesk?style=social&color=white)](https://github.com/miransec/vaanidesk/stargazers)  
+15. **[VaaniDesk](https://github.com/miransec/vaanidesk)** [![GitHub_Stars](https://img.shields.io/github/stars/miransec/vaanidesk?style=social&color=white)](https://github.com/miransec/vaanidesk/stargazers)  
     *Multilingual AI customer support platform built end-to-end with controlled agents, hybrid RAG, and Hinglish/code-switching detection across English, Hindi, and Marathi with 113 deterministic evaluation gates.*
 
-16. **[Chataptor](https://github.com/chataptor/chataptor-flutter)** [![GitHub stars](https://img.shields.io/github/stars/chataptor/chataptor-flutter?style=social&color=white)](https://github.com/chataptor/chataptor-flutter/stargazers)  
+16. **[Chataptor](https://github.com/chataptor/chataptor-flutter)** [![GitHub_Stars](https://img.shields.io/github/stars/chataptor/chataptor-flutter?style=social&color=white)](https://github.com/chataptor/chataptor-flutter/stargazers)  
     *Headless Dart and Flutter client library for real-time auto-translated customer support chat across 100+ languages over Phoenix WebSockets, compatible with iOS, Android, Web, and Desktop.*
 
 ---
@@ -237,8 +237,8 @@ Contributions from support engineers, localization experts, and developers are w
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-tool`).
 3. 📝 **Add your tool or platform** to the appropriate section in `README.md`:
    - Follow the established table formatting for SaaS platforms (accurate starting price and free tier limits required).
-   - For open-source projects, include the social star badge format:  
-     `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
+   - For open-source projects, include the social Stars_Badge format:  
+     `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
    - Keep descriptions objective, factual, and focused on real-time multilingual support orchestration.
 4. 🚀 **Submit a Pull Request** with a concise explanation of why the tool should be added.
 
