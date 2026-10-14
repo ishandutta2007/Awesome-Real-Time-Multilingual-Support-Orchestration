@@ -1,6 +1,6 @@
 # Awesome-Real-Time-Multilingual-Support-Orchestration
 
-# Top Real-Time Regulatory Change Monitors Ecosystem
+## Top Real-Time Regulatory Change Monitors Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Regulatory Radar, Control Mapping & Compliance Automation*  
